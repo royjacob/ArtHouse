@@ -10,7 +10,9 @@ class App extends Component {
         {"ImgUrl":"one", "Name":"won"},
         {"ImgUrl":"two", "Name":"too"},
         {"ImgUrl":"three", "Name":"free"},
-        {"ImgUrl":"four", "Name":"four"}
+        {"ImgUrl":"four", "Name":"four"},
+        {"ImgUrl":"five", "Name":"phaive"},
+        {"ImgUrl":"six", "Name":"siiix"}
       ],
     }
   }

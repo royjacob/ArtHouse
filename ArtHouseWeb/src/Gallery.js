@@ -38,8 +38,8 @@ export class Gallery extends Component {
             </div>
             <div className="text-box pure-u-1 pure-u-md-1-2 pure-u-lg-2-3">
                 <div className="l-box">
-                    <h1 className="text-box-head">Icon Kiwi Flora and Fauna</h1>
-                    <p className="text-box-subhead">Rendered in Oil Pencil</p>
+                    <h1 className="text-box-head">Iconic Kiwi Flora and Fauna</h1>
+                    <p className="text-box-subhead">Rendered using Oil Pencils</p>
                 </div>
             </div>
             { this.props.library.map(image => this.renderImage(image)) }
