@@ -40,6 +40,9 @@ export class Gallery extends Component {
                 <div className="l-box">
                     <h1 className="text-box-head">Iconic Kiwi Flora and Fauna</h1>
                     <p className="text-box-subhead">Rendered using Oil Pencils</p>
+                    <button class="pure-button">
+                        <i className=".ico"></i>
+                    </button>
                 </div>
             </div>
             { this.props.library.map(image => this.renderImage(image)) }
